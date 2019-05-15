@@ -5,7 +5,7 @@
   * [保养提醒数据及来源](bao-yang-ti-xing-xu-qiu-shu-li/ke-hu-xin-xi.md)
   * [用户查看权限规则](bao-yang-ti-xing-xu-qiu-shu-li/yong-hu-quan-xian-fen-pei-guan-li.md)
   * [提醒列表数据及展示](bao-yang-ti-xing-xu-qiu-shu-li/ti-xing-lie-biao-shu-ju-zhan-shi.md)
-  * [提醒方式及控制](bao-yang-ti-xing-xu-qiu-shu-li/ti-xing-fang-shi-ji-kong-zhi.md)
+  * [提醒方式，规则及控制](bao-yang-ti-xing-xu-qiu-shu-li/ti-xing-fang-shi-ji-kong-zhi.md)
   * [保养类型及提醒流转过程](bao-yang-ti-xing-xu-qiu-shu-li/ti-xing-lei-xing-ji-liu-zhuan-guo-cheng.md)
   * [关联操作-客户信息](bao-yang-ti-xing-xu-qiu-shu-li/fu-shu-zi-6599-ke-hu-xin-xi.md)
   * [关联操作-保养记录](bao-yang-ti-xing-xu-qiu-shu-li/fu-shu-zi-6599-wei-xiu-ji-lu.md)
@@ -17,8 +17,8 @@
   * [保险提醒数据及来源](bao-xian-ti-xing-xu-qiu-shu-li/bao-xian-ti-xing-shu-ju-ji-lai-yuan.md)
   * 用户查看权限规则
   * [提醒列表数据及展示](bao-xian-ti-xing-xu-qiu-shu-li/ti-xing-lie-biao-shu-ju-ji-zhan-shi.md)
+  * [提醒方式，规则及控制](bao-xian-ti-xing-xu-qiu-shu-li/ti-xing-fang-shi-ji-kong-zhi.md)
   * [保险类型及提醒流转过程](bao-xian-ti-xing-xu-qiu-shu-li/bao-xian-ti-xing-liu-zhuan-guo-cheng.md)
-  * 提醒方式及控制
   * [关联操作-客户信息](bao-xian-ti-xing-xu-qiu-shu-li/ke-hu-xin-xi.md)
   * [关联操作-卡券记录](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-gong-80fd-qia-quan-cao-zuo.md)
   * 关联操作-提醒记录
