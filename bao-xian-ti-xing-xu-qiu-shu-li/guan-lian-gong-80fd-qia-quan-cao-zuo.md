@@ -5,14 +5,24 @@
 
 ---
 
-> ## 1.卡券数据来源：  
+> ## 1.卡券数据来源：
 
-- ### 1.1原系统展示数据：
-    URL：http://4s.mycjj.com/index.php?act=customer_data&op=coupon_info&id=16534  
+* ### 1.1原系统展示数据：
 
-    修改数据结构并以接口形式返回
+  URL：[http://4s.mycjj.com/index.php?act=customer\_data&op=coupon\_info&id=16534](http://4s.mycjj.com/index.php?act=customer_data&op=coupon_info&id=16534)
 
+  修改数据结构并以接口形式返回
 
-> ## 2原系统展示数据：  
+> ## 2原系统展示数据：
+
+| 信息名称： | 前端展示： | 其他： |
+| :--- | :--- | :--- |
+| 使用状态 | √ | 分为：可使用，已使用，未激活，已过期 |
+| 卡券名称 | √ |  |
+| 使用条件 | √ |  |
+| 截止日期 | √ | 精确到 日 |
+| 面值 | √ | 人民币整数 |
+| 类型 | √ | 如：续保赠送 |
+
 
 
