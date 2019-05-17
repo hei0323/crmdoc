@@ -26,5 +26,5 @@
   * [关联操作-提醒跟进](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-cao-4f5c-ti-xing-jie-guo.md)
   * [关联操作-报价管理](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-cao-4f5c-bao-jia-guan-li.md)
   * [关联操作-投保记录](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-cao-4f5c-tou-bao-ji-lu.md)
-  * [关联操作-维修记录](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-cao-4f5c-wei-xiu-ji-lu.md)
+  * [关联操作-保养记录](bao-xian-ti-xing-xu-qiu-shu-li/guan-lian-cao-4f5c-wei-xiu-ji-lu.md)
 
