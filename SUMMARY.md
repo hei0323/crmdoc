@@ -37,4 +37,5 @@
   * [数据总览](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/shu-ju-zong-lan.md)
   * [指标1：当月目标客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-1-ff1a-dang-yue-mu-biao-ke-hu-shu.md)
   * [指标2：当月实际提醒客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-2-ff1a-dang-yue-shi-ji-ti-xing-ke-hu-shu.md)
+  * [指标3：提醒成功率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-3-ff1a-ti-xing-cheng-gong-lv.md)
 
