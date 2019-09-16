@@ -39,4 +39,5 @@
   * [指标2：当月实际提醒客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-2-ff1a-dang-yue-shi-ji-ti-xing-ke-hu-shu.md)
   * [指标3：提醒成功率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-3-ff1a-ti-xing-cheng-gong-lv.md)
   * [指标4：提醒后回厂客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-4-ff1a-ti-xing-hou-hui-chang-ke-hu-shu.md)
+  * [指标5：回厂率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-5-ff1a-hui-chang-lv.md)
 
