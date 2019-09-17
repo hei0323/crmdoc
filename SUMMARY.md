@@ -42,4 +42,6 @@
     * [指标4：提醒后回厂客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-4-ff1a-ti-xing-hou-hui-chang-ke-hu-shu.md)
     * [指标5：回厂率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/zhi-biao-5-ff1a-hui-chang-lv.md)
     * [邀约质量列表详情展示](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/xiang-qing-ye-mian.md)
+  * [回厂次数分析](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/hui-chang-ci-shu-fen-xi.md)
+    * [来厂保养客户总数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/hui-chang-ci-shu-fen-xi/lai-chang-bao-yang-ke-hu-zong-shu.md)
 
