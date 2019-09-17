@@ -50,6 +50,8 @@
     * [指标5：D类客户](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/hui-chang-ci-shu-fen-xi/zhi-biao-5-d-lei-ke-hu.md)
   * [流失再回厂分析](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/liu-shi-zai-hui-chang-fen-xi.md)
     * [指标1：流失客户回厂数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/liu-shi-zai-hui-chang-fen-xi/zhi-biao-1-ff1a-liu-shi-ke-hu-hui-chang-shu.md)
-    * 指标2：流失客户总数
-    * 指标3：保养流失客户回厂率
+    * [指标2：流失客户总数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/liu-shi-zai-hui-chang-fen-xi/zhi-biao-2-ff1a-liu-shi-ke-hu-zong-shu.md)
+    * [指标3：保养流失客户回厂率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/liu-shi-zai-hui-chang-fen-xi/zhi-biao-3-ff1a-bao-yang-liu-shi-ke-hu-hui-chang-lv.md)
+  * [客户贡献度](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/ke-hu-gong-xian-du.md)
+    * [指标1：有效客户总数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/ke-hu-gong-xian-du/zhi-biao-1-ff1a-you-xiao-ke-hu-zong-shu.md)
 
