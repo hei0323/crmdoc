@@ -62,8 +62,8 @@
     * [指标1：当月回厂客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-1-ff1a-dang-yue-hui-chang-ke-hu-shu.md)
     * [指标2：当月新增回厂客户数](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-2-ff1a-dang-yue-xin-zeng-hui-chang-ke-hu-shu.md)
     * [指标3：回厂客户数（N-12 月回厂客户数）](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-3-ff1a-hui-chang-ke-hu-shu-ff08-n-12-yue-hui-chang-ke-hu-shu-ff09.md)
-    * [指标4：当月流失客户数（N-12 未回厂客户数）](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-4-ff1a-dang-yue-liu-shi-ke-hu-shu-ff08-n-12-wei-hui-chang-ke-hu-shu-ff09.md)
     * [指标5：当月客户流失率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-5-ff1a-dang-yue-ke-hu-liu-shi-lv.md)
+    * [指标4：当月流失客户数（N-12 未回厂客户数）](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/yue-du-liu-shi-lv-fen-xi/zhi-biao-4-ff1a-dang-yue-liu-shi-ke-hu-shu-ff08-n-12-wei-hui-chang-ke-hu-shu-ff09.md)
   * [客户保持率分析](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/ke-hu-bao-chi-lv-fen-xi.md)
     * [指标1：客户保持率](shou-hou-tong-ji/crmbao-yang-shou-hou-tong-ji/ke-hu-bao-chi-lv-fen-xi/zhi-biao-1-ff1a-ke-hu-bao-chi-lv.md)
 
